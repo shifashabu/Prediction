@@ -58,5 +58,5 @@ The goal was to leverage cleaned sales data to build a predictive model, interpr
 ---
 
 ## 🔗 Repository Link
-[View Project on GitHub](https://github.com/shifashabu/Amazon_Sales_Prediction)
+[View Project on GitHub](https://github.com/shifashabu/Prediction)
 
